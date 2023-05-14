@@ -4,9 +4,9 @@ A **Face detection attendance system** is a computer-based system that uses faci
 
 ### Case Study
 
-- *Problem* - 
-- *Solution* - 
-- *Result* - 
+- *Problem* - Taking attendanace manually by wasting time for every class throughout the day.
+- *Solution* - Digitalizing this process to save time and maintain records of data which can be used later.
+- *Result* - Lot of time can be saved and can use and maintain this data much more efficiently.
 
 **Techonolgies used :**
 
@@ -27,11 +27,13 @@ HOG stands for Histogram of oriented gradients. HOG is a popular feature descrip
 ## What Steps I followed to design this system?
 
 Steps involved in designing this app :
-1.  Install OpenCV library on your system.
-2.  Collect the dataset of faces of people who will be attending the class/meeting.
-3.  Train the dataset using a machine learning algorithm like HOG.
-4.  Create a Python script that will capture the video feed from a camera.
-5.  Use OpenCV to detect faces in the video feed using HOG algorithm.
-6.  If a face is detected, compare it with the dataset to check if it matches with any of the faces in the dataset.
-7.  If a match is found, mark the attendance for that person.
-8.  Save the attendance data in a file or database.
+1.  Installed OpenCV library.
+2.  Collected the dataset of my classmates faces to train.
+3.  Trained the dataset using a machine learning algorithm called HOG (Histogram of oriented gradients).
+4.  Created a Python script that will recognize the faces from the picture that is given as input to this script.
+5.  Face Recognition part will be taken care by OpenCV using HOG algorithm.
+6.  If the face is detected, then the algorithm compares it with the dataset to check if it matches with any of the faces in the dataset.
+7.  If the match is found, Python script marks the attendance for that person in a excel sheet.
+8.  This excel sheet can be stored in a database or used for any reporting purposes.
+
+**Note** - I made this attendance system as a mobile app based on our requirements. You can implement this as a dedicated web app or integrate this into your college/Organization website as well.
