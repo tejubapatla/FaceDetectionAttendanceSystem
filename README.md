@@ -27,8 +27,10 @@ OpenCV is a popular open-source computer vision library that can be used to perf
 Each algorithm has its own strengths and weaknesses, and the choice of algorithm depends on the specific requirements of the application.
 
 ### What is HOG algorithm?
-
 HOG stands for Histogram of oriented gradients. HOG is a popular feature descriptor used for object detection. It works by dividing the image into small cells and calculating the gradient orientation and magnitude in each cell. These values are then used to create a histogram of oriented gradients, which is used to train a machine learning algorithm to detect objects in the image.
+
+Below is the flow of how HOG algorithm works:
+![Block diagram](https://github.com/Teju-tech/FaceDetectionAttendanceSystem/assets/60033684/80634d95-15cf-4ed9-b607-ab4d14bfd06f)
 
 ## What Steps I followed to design this system?
 
