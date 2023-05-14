@@ -37,12 +37,3 @@ for individual in onlyfiles:
     file.write(individual + ",")
     file.close()
     data.append(face_encoding)
-
-'''hello=requests.get("http://localhost/ahom/logs.txt")
-textData=str(hello.text)
-splitdata=my_list = textData.split(",")
-[ float(i) for i in splitdata]
-a = np.float64(splitdata)
-#encodes=np.array(splitdata, dtype=np.float64)
-result = find_between( textData,'[',']')
-#print(result.group(1))'''
