@@ -23,6 +23,7 @@ OpenCV is a popular open-source computer vision library that can be used to perf
 - Local Binary Patterns (LBP)
 - Convolutional Neural Networks (CNN)
 - Histogram of Oriented Gradients (HOG)
+
 Each algorithm has its own strengths and weaknesses, and the choice of algorithm depends on the specific requirements of the application.
 
 ### What is HOG algorithm?
