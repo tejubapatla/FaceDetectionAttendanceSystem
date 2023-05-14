@@ -47,4 +47,4 @@ Steps involved in designing this app :
 **Note** :
 
 - I made this attendance system as a mobile app based on our requirements. You can implement this as a dedicated web app or integrate this into your college/Organization website as well.
-- Not included all the files we used in this project. Sharing just the heart of the system. rest al can be build based on the requirements and usage.
+- Not included all the files we have in this project. Sharing just the heart of the system. Rest all can be build based on the requirements and usage.
