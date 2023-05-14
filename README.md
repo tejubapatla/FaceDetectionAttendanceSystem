@@ -18,7 +18,7 @@ A **Face detection attendance system** is a computer-based system that uses faci
 ## Decoding the Algorithm
 
 ### What is OpenCV?
-OpenCV is a popular open-source computer vision library that can be used to perform face detection. It has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. There are a variey of algorithms used for face recognition like 
+OpenCV is a popular open-source computer vision library that can be used to perform face detection. It has more than 2,500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. There are a variey of algorithms used for face recognition like 
 	• Haar Cascades
 	• Local Binary Patterns (LBP)
 	• Convolutional Neural Networks (CNN)
