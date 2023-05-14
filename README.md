@@ -12,13 +12,18 @@ A **Face detection attendance system** is a computer-based system that uses faci
 
 -   Programming language : Python
 -   Database : Microsoft Access
--   Python Library : Open CV
+-   Python Library : Open CV, numpy,pandas, matplotlib (these are the main ones. we have used many other for internal calculations)
 -   Algorithm : HOG
 
 ## Decoding the Algorithm
 
 ### What is OpenCV?
-OpenCV is a popular open-source computer vision library that can be used to perform face detection. It provides pre-trained models for face detection that can be used to quickly build a face detection system. OpenCV also provides tools for image processing, such as resizing and filtering, which can be used to improve the accuracy of the face detection system.
+OpenCV is a popular open-source computer vision library that can be used to perform face detection. It has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. There are a variey of algorithms used for face recognition like 
+	• Haar Cascades
+	• Local Binary Patterns (LBP)
+	• Convolutional Neural Networks (CNN)
+	• Histogram of Oriented Gradients (HOG)
+Each algorithm has its own strengths and weaknesses, and the choice of algorithm depends on the specific requirements of the application.
 
 ### What is HOG algorithm?
 
