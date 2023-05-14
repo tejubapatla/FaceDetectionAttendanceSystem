@@ -44,4 +44,7 @@ Steps involved in designing this app :
 7.  If the match is found, Python script marks the attendance for that person in a excel sheet.
 8.  This excel sheet can be stored in a database or used for any reporting purposes.
 
-**Note** - I made this attendance system as a mobile app based on our requirements. You can implement this as a dedicated web app or integrate this into your college/Organization website as well.
+**Note** :
+
+- I made this attendance system as a mobile app based on our requirements. You can implement this as a dedicated web app or integrate this into your college/Organization website as well.
+- Not included all the files we used in this project. Sharing just the heart of the system. rest al can be build based on the requirements and usage.
